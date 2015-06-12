@@ -13,6 +13,7 @@ Create an account at http://www.openshift.com/
 Create a php-5.3 + mysql 5.1 application based on this repo's code (you can call your application whatever you want)
 
     rhc app create $appname php-5.3 mysql-5.1 --from-code=https://github.com/openshift/magento-example
+    https://github.com/imam-san/magento-example.git
 
 That's it, you can now checkout your application at:
 
